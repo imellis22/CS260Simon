@@ -15,3 +15,5 @@ To create the wheel for the simon game, you first created a div and then rounded
 On another note, I have no idea what the center class does. I changed every variable in it and nothing changed. 
 
 When declaring CSS classes you can use something like "footer a" which will apply the css to all a tags only found in footer tags. 
+
+It is amazing everything you can do with bootstrap. A ton of the formatting used wasn't declared in the main.css and was all just imported in from bootstrap. That can save a ton of time if I can figure out how to really use it. 
