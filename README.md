@@ -22,3 +22,5 @@ It is amazing everything you can do with bootstrap. A ton of the formatting used
 I like how the scores.js gives a really good example of how to make new, complex elements to add to the DOM. A lot of the elements I want in my startup are kind of complex, so this will be really helpful.
 
 The login.js gives a good example of how to get information from a form and then add that to your display using javascript. That will be really helpful. 
+
+Scores makes sense to me, but not super well. It is really useful to look at as examples for a lot of things, from accessing info from local storage and using async functions. 
