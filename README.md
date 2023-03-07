@@ -17,3 +17,8 @@ On another note, I have no idea what the center class does. I changed every vari
 When declaring CSS classes you can use something like "footer a" which will apply the css to all a tags only found in footer tags. 
 
 It is amazing everything you can do with bootstrap. A ton of the formatting used wasn't declared in the main.css and was all just imported in from bootstrap. That can save a ton of time if I can figure out how to really use it. 
+
+# Javascript notes
+I like how the scores.js gives a really good example of how to make new, complex elements to add to the DOM. A lot of the elements I want in my startup are kind of complex, so this will be really helpful.
+
+The login.js gives a good example of how to get information from a form and then add that to your display using javascript. That will be really helpful. 
